@@ -1,201 +1,197 @@
-Human Values, Purpose & Meaning 2025 Dataset (Dataset)
+# Human Values, Purpose & Meaning 2025 (Dataset)
 
-Human Clarity Institute (HCI)
-DOI: <10.xxxx/xxxx>
-Version: v1.0
-Licence: CC-BY-4.0
-Date Published: <2025-11-25>
-Landing page: https://humanclarityinstitute.com/datasets/human-values-purpose-meaning-2025/
+**Human Clarity Institute (HCI)**  
+**DOI:** <10.xxxx/xxxx>  
+**Version:** v1.0  
+**Licence:** CC-BY-4.0  
+**Date Published:** <2025-11-25>  
+**Landing page:** https://humanclarityinstitute.com/datasets/human-values-purpose-meaning-2025/  
+**Data summary:** https://humanclarityinstitute.com/data/human-values-purpose-meaning-data-2025/  
+**Dashboard:** https://humanclarityinstitute.com/data-dashboard/
 
-Data summary: https://humanclarityinstitute.com/data/human-values-purpose-meaning-data-2025/
+Part of the Human Clarity Institute’s **AI–Human Experience Data Series**, documenting how adults understand personal values, meaning, fulfilment, behaviour alignment, wellbeing, and how these relate to digital and AI environments.
 
-Dashboard: https://humanclarityinstitute.com/data-dashboard/
+---
 
-Part of the Human Clarity Institute’s AI–Human Experience Data Series, documenting how adults understand their personal values, sense of meaning, behaviour alignment, emotional wellbeing, and the influence of digital and AI environments.
+## Repository / Access Links
 
-Repository / Access Links
+**GitHub:** <repo URL>  
+**Zenodo:** <DOI link>  
+**Figshare:** <DOI link>  
 
-GitHub: <repo URL>
-Zenodo: <DOI link>
-Figshare: <DOI link>
+This dataset is archived in **GitHub**, **Zenodo**, and **Figshare** for long-term preservation.
 
-This dataset is archived in GitHub, Zenodo, and Figshare for long-term preservation.
+---
 
-1. Citation
+# 1. Citation
 
-APA:
-Human Clarity Institute. (2025). Human Values, Purpose & Meaning 2025 Dataset [Data set]. HCI. https://doi.org/
-<10.xxxx/xxxx>
+**APA:**  
+Human Clarity Institute. (2025). *Human Values, Purpose & Meaning 2025* [Data set]. HCI. https://doi.org/<10.xxxx/xxxx>
 
-BibTeX
-
+**BibTeX**
+```bibtex
 @dataset{hci_human_values_purpose_meaning_2025,
   author    = {Human Clarity Institute},
-  title     = {Human Values, Purpose \& Meaning 2025 Dataset},
+  title     = {Human Values, Purpose \& Meaning 2025},
   year      = {2025},
   publisher = {Human Clarity Institute},
   doi       = {<10.xxxx/xxxx>},
   url       = {https://humanclarityinstitute.com/datasets/human-values-purpose-meaning-2025/},
   license   = {CC-BY-4.0}
 }
+```
 
-2. Summary
+---
 
-Purpose:
-This dataset explores how adults understand their personal values, sense of meaning, fulfilment, direction, behaviour alignment, and emotional wellbeing — and how these relate to their digital environment and AI influence.
+# 2. Summary
 
-Scope:
-Adults aged 18+, from the UK, US, New Zealand, Ireland, Canada, and Australia.
-Data collected 25 November 2025 via Prolific.
-Final sample size: n = 507.
+**Purpose:**  
+This dataset explores how adults understand their personal values, meaning, fulfilment, direction, behaviour alignment, wellbeing, and how these experiences relate to digital and AI environments.
 
-Themes:
-values, meaning, purpose, identity alignment, behaviour alignment, wellbeing, digital influence, self-trust
+**Scope:**  
+Adults aged 18+ from the UK, US, New Zealand, Ireland, Canada, and Australia.  
+Data collected **25 November 2025** via Prolific.  
+Final sample size: **n = 507**.
 
-Outputs:
-Numeric Likert responses (1–7), multi-select categorical selections, free-text reflections, and demographic indicators.
+**Themes:**  
+values, purpose, meaning, identity alignment, behaviour alignment, wellbeing, digital influence, self-trust
 
-Data Integrity Note:
-This dataset has been fully cleaned, anonymised, and verified according to HCI’s open-data protocol. A SHA-256 checksum file is included to ensure long-term data integrity.
+**Outputs:**  
+Numeric Likert scores (1–7), multi-select values, open-text reflections, and demographic indicators.
 
-3. Example Prompt / Quote (for RAG context)
+**Data Integrity Note:**  
+This dataset has been fully cleaned, anonymised, and verified according to HCI’s open-data protocol.  
+A SHA-256 checksum file is included to ensure long-term data integrity.
+
+---
+
+# 3. Example Prompt / Quote (for RAG context)
 
 “Which area of your life feels least aligned with your personal values?”
 
-4. Data Sources
-Source	Description	Access / DOI
-Prolific	Participant recruitment panel	https://www.prolific.com
+---
 
-Google Forms	Survey instrument	https://docs.google.com/forms/d/e/1FAIpQLSdqWkitH3WplpHsVHRD_ctOwiXnJTHxWnLlLVcl8-tWOitWRQ/viewform?usp=header
+# 4. Data Sources
 
-—	No external datasets used	—
-5. Sample & Files
+| Source       | Description                     | Access / DOI |
+|--------------|---------------------------------|--------------|
+| Prolific     | Participant recruitment panel   | https://www.prolific.com |
+| Google Forms | Survey instrument               | https://docs.google.com/forms/d/e/1FAIpQLSdqWkitH3WplpHsVHRD_ctOwiXnJTHxWnLlLVcl8-tWOitWRQ/viewform?usp=header |
+| —            | No external datasets used       | — |
 
-Sample size: n = 507
+---
 
-Countries: UK, US, New Zealand, Ireland, Canada, Australia
+# 5. Sample & Files
 
-Files included:
+- **Sample size:** n = 507  
+- **Countries:** UK, US, New Zealand, Ireland, Canada, Australia  
 
-Human-Values-Purpose-Meaning_raw20251125.csv
+**Files included:**  
+- Human-Values-Purpose-Meaning_raw20251125.csv  
+- Human-Values-Purpose-Meaning_clean20251125.csv  
+- Human-Values-Purpose-Meaning_dictionary.csv  
+- README.md  
+- checksums/sha256.txt
 
-Human-Values-Purpose-Meaning_clean20251125.csv
+---
 
-Human-Values-Purpose-Meaning_dictionary.csv
-
-README.md
-
-checksums/sha256.txt
-
-6. Keywords
+# 6. Keywords
 
 values, purpose, meaning, behaviour alignment, identity, decision-making, wellbeing, digital influence, AI influence, emotional clarity
 
-7. Method
+---
 
-Design:
+# 7. Method
+
+**Design:**  
 Cross-sectional online survey.
 
-Instrument:
-
-28 × Likert items (1–7 scale)
-
-Multi-select questions
-
-Open-text questions
-
+**Instrument:**  
+28 × Likert items (1–7)  
+Multi-select value questions  
+Open-text reflections  
 Demographics: age group, gender, country, employment status, education, AI-tool frequency
 
-Sampling:
-Prolific.
-Global English-speaking adults from the UK, US, NZ, Ireland, Canada, and Australia.
-Collection: 25 November 2025.
+**Sampling:**  
+Prolific.  
+Global English-speaking adults from the UK, US, NZ, Ireland, Canada, and Australia.  
+Collection date: **25 November 2025**.
 
-Ethics:
-Informed consent obtained.
-Data anonymised before analysis.
-Participants could withdraw prior to submission.
+**Ethics:**  
+Informed consent obtained.  
+Data anonymised before analysis.  
+Participants could withdraw before submission.
 
-8. Variables
+---
 
-A full variable-by-variable description is provided in the accompanying data dictionary:
-Human-Values-Purpose-Meaning_dictionary.csv
+# 8. Variables
 
-Includes:
+A full variable-by-variable description is provided in the accompanying data dictionary:  
+**Human-Values-Purpose-Meaning_dictionary.csv**
 
-variable names (snake_case)
+Includes:  
+- variable names (snake_case)  
+- question labels  
+- numeric scale ranges  
+- definitions  
+- notes on open-text and multi-select fields  
 
-question labels
+---
 
-numeric scale ranges
+# 9. Processing & Cleaning
 
-definitions
+**Pipeline:**  
+1. Exported raw responses from Google Forms  
+2. Verified consent  
+3. Checked and removed duplicate Prolific IDs  
+4. Verified response completeness  
+5. Confirmed valid Likert numeric ranges (1–7)  
+6. Checked for malformed characters  
+7. Applied snake_case naming to all variables  
+8. Verified demographic consistency  
+9. Prepared README + data dictionary  
+10. Generated SHA-256 checksums  
 
-notes on open-text and multi-select fields
+---
 
-9. Processing & Cleaning
+# 10. Provenance & Linking
 
-Pipeline:
+**Creator / Publisher:** Human Clarity Institute  
+**isBasedOn:** Independent original data collection  
 
-Exported raw responses from Google Forms
+**Related HCI datasets:**  
+- Digital Life 2025 — https://humanclarityinstitute.com/datasets/digital-life-2025/  
+- Focus & Distraction 2025 — https://humanclarityinstitute.com/datasets/focus-distraction-2025/  
+- AI, Work & Human Identity 2025 — https://humanclarityinstitute.com/datasets/ai-human-2025/  
+- Cognitive Load, Fatigue & Decision Offloading 2025 — https://humanclarityinstitute.com/datasets/ai-fatigue-decision-2025/
 
-Confirmed consent
+**Related HCI reports:**  
+- Values vs Noise — https://humanclarityinstitute.com/reports/values-vs-noise-full-report/  
+- Digital Fatigue & Energy — https://humanclarityinstitute.com/reports/digital-fatigue-and-energy-full-report/  
+- Why Can’t I Focus? — https://humanclarityinstitute.com/reports/why-cant-i-focus-full-report/  
+- Coping & Wellbeing — https://humanclarityinstitute.com/reports/coping-and-wellbeing-full-report/
 
-Checked and removed duplicate Prolific IDs
+---
 
-Verified response completeness
+# 11. Licence & Reuse
 
-Confirmed valid numeric ranges for Likert (1–7)
-
-Checked for malformed characters and formatting issues
-
-Applied snake_case naming to all variables
-
-Verified demographic consistency
-
-Prepared README + data dictionary
-
-Generated SHA-256 checksums for all released files
-
-10. Provenance & Linking
-
-Creator / Publisher: Human Clarity Institute
-isBasedOn: Independent original data collection
-
-Related HCI datasets:
-
-Digital Life 2025 — https://humanclarityinstitute.com/datasets/digital-life-2025/
-
-Focus & Distraction 2025 — https://humanclarityinstitute.com/datasets/focus-distraction-2025/
-
-AI, Work & Human Identity 2025 — https://humanclarityinstitute.com/datasets/ai-human-2025/
-
-Cognitive Load, Fatigue & Decision Offloading 2025 — https://humanclarityinstitute.com/datasets/ai-fatigue-decision-2025/
-
-Related HCI reports:
-
-Values vs Noise — https://humanclarityinstitute.com/reports/values-vs-noise-full-report/
-
-Digital Fatigue & Energy — https://humanclarityinstitute.com/reports/digital-fatigue-and-energy-full-report/
-
-Why Can’t I Focus? — https://humanclarityinstitute.com/reports/why-cant-i-focus-full-report/
-
-Coping & Wellbeing — https://humanclarityinstitute.com/reports/coping-and-wellbeing-full-report/
-
-11. Licence & Reuse
-
-Licence: CC-BY-4.0
-Attribution text:
+Licence: **CC-BY-4.0**  
+Attribution text:  
 “Data © Human Clarity Institute (2025), CC-BY-4.0.”
 
-12. Version History
-Version	Date	Change
-v1.0	<YYYY-MM-DD>	Initial release
-13. Contact & Dashboard Integration
+---
 
-Email: info@humanclarityinstitute.com
+# 12. Version History
 
-Website: https://humanclarityinstitute.com/
+| Version | Date         | Change          |
+|---------|--------------|------------------|
+| v1.0    | <2025-11-25> | Initial release  |
 
-Dashboard Cluster: Values & Meaning
+---
+
+# 13. Contact & Dashboard Integration
+
+Email: info@humanclarityinstitute.com  
+Website: https://humanclarityinstitute.com/  
+Dashboard Cluster: Values & Meaning  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
