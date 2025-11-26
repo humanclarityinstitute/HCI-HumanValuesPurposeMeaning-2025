@@ -77,9 +77,7 @@ A SHA-256 checksum file is included to ensure long-term data integrity.
 | Source        | Description                    | Access / DOI |
 |---------------|--------------------------------|--------------|
 | Prolific      | Participant recruitment panel  | https://www.prolific.com |
-| Google Forms  | Survey instrument              | https://docs.google.com/forms/d/e/1FAIpQLSdqWkitH3WplpHsVHRD_ctOwiXnJTHxWnLlLVcl8-tWOitWRQ/viewform?usp=header |
-| —             | No external datasets used      | — |
-
+| —             | No external datasets used      | —                        |
 ---
 
 # 5. Sample & Files
@@ -164,12 +162,16 @@ Includes:
 - Focus & Distraction 2025 — https://humanclarityinstitute.com/datasets/focus-distraction-2025/  
 - AI, Work & Human Identity 2025 — https://humanclarityinstitute.com/datasets/ai-human-2025/  
 - Cognitive Load, Fatigue & Decision Offloading 2025 — https://humanclarityinstitute.com/datasets/ai-fatigue-decision-2025/
+- Emotion, Identity & Creativity in the Age of AI 2025 - https://humanclarityinstitute.com/datasets/emotion-identity-creativity-in-the-age-of-ai-dataset/
+- Digital Trust 2025 - https://humanclarityinstitute.com/datasets/digital-trust-2025/
+
 
 **Related HCI reports:**  
 - Values vs Noise — https://humanclarityinstitute.com/reports/values-vs-noise-full-report/  
 - Digital Fatigue & Energy — https://humanclarityinstitute.com/reports/digital-fatigue-and-energy-full-report/  
 - Why Can’t I Focus? — https://humanclarityinstitute.com/reports/why-cant-i-focus-full-report/  
 - Coping & Wellbeing — https://humanclarityinstitute.com/reports/coping-and-wellbeing-full-report/
+- Values Discovery - https://humanclarityinstitute.com/reports/values-discovery-full-report/
 
 ---
 
@@ -196,3 +198,4 @@ Email: info@humanclarityinstitute.com
 Website: https://humanclarityinstitute.com/  
 Dashboard Cluster: Values & Meaning  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+
