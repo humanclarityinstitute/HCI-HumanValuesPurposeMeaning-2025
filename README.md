@@ -1,7 +1,7 @@
 # Human Values, Purpose & Meaning 2025 (Dataset)
 
 **Human Clarity Institute (HCI)**  
-**DOI:** https://doi.org/10.5281/zenodo.17705734  
+**DOI:** 10.5281/zenodo.17705733  
 **Version:** v1.0  
 **Licence:** CC-BY-4.0  
 **Date Published:** 2025-11-25  
@@ -16,7 +16,6 @@ Part of the Human Clarity Institute’s **AI–Human Experience Data Series**, e
 ## Repository / Access Links
 
 **GitHub:** https://github.com/humanclarityinstitute/HCI-HumanValuesPurposeMeaning-2025/  
-**Zenodo (version DOI):** https://doi.org/10.5281/zenodo.17705734  
 **Zenodo (concept DOI — all versions):** https://doi.org/10.5281/zenodo.17705733  
 **Figshare:** https://doi.org/10.6084/m9.figshare.30702479
 
@@ -27,7 +26,7 @@ This dataset is archived in **GitHub**, **Zenodo**, and **Figshare** for long-te
 # 1. Citation
 
 **APA:**  
-Human Clarity Institute. (2025). *Human Values, Purpose & Meaning 2025 (Dataset).* HCI. https://doi.org/10.5281/zenodo.17705734
+Human Clarity Institute. (2025). *Human Values, Purpose & Meaning 2025 (Dataset).* HCI. https://doi.org/10.5281/zenodo.17705733
 
 **BibTeX**  
 ```bibtex
@@ -36,7 +35,7 @@ Human Clarity Institute. (2025). *Human Values, Purpose & Meaning 2025 (Dataset)
   title     = {Human Values, Purpose & Meaning 2025 (Dataset)},
   year      = {2025},
   publisher = {Human Clarity Institute},
-  doi       = {10.5281/zenodo.17705734},
+  doi       = {10.5281/zenodo.17705733},
   url       = {https://humanclarityinstitute.com/datasets/human-values-purpose-meaning-2025/},
   license   = {CC-BY-4.0}
 }
@@ -196,6 +195,6 @@ Attribution text:
 
 Email: info@humanclarityinstitute.com  
 Website: https://humanclarityinstitute.com/  
-Dashboard Cluster: Values & Meaning  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+
 
