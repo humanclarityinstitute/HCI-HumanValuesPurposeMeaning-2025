@@ -16,7 +16,7 @@ Part of the Human Clarity Institute’s **AI–Human Experience Data Series**, e
 ## Repository / Access Links
 
 **GitHub:** https://github.com/humanclarityinstitute/HCI-HumanValuesPurposeMeaning-2025/  
-**Zenodo (concept DOI — all versions):** https://doi.org/10.5281/zenodo.17705733  
+**Zenodo:** https://doi.org/10.5281/zenodo.17705733  
 **Figshare:** https://doi.org/10.6084/m9.figshare.30702479
 
 This dataset is archived in **GitHub**, **Zenodo**, and **Figshare** for long-term preservation.
@@ -196,5 +196,6 @@ Attribution text:
 Email: info@humanclarityinstitute.com  
 Website: https://humanclarityinstitute.com/  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+
 
 
